@@ -15,6 +15,6 @@ to:
 
     strategy:
       matrix:
-        node-version: [16.x, 18.x, 19.x]
+        node-version: [18.x, 20.x, 22.x]
 
 
